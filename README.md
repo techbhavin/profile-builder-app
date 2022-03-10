@@ -41,11 +41,21 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Questions
 
-1. ### What was your approach for this project? Did it change as you developed the app further?
+ ###  Q. What was your approach for this project? Did it change as you developed the app further?
 
-2. ### What were the challenges you faced?
+- I choose the approach to first design the flow on the paper that makes it easier to visualise. Thenafter, I started with the design part i.e. the first clickable of it that makes the flow clear and then wrote the logic and validation of the components. I made some changes in the design later for better UX.
 
-3. ###	How differently will you do if you had a couple of more days to complete the assignment? What if you have one full month?
+### Q. What were the challenges you faced?
+
+- Using Form Lib with Antd was a challenge as Formik doesn't gel up very well for Antd for eg. Setting up Field array is difficult with the 3rd party binding lib that Formik claims works with Antd.
+- Without Css designing has been a challenge. If with css would have been much more Visually attractive
+
+###	Q. How differently will you do if you had a couple of more days to complete the assignment? What if you have one full month?
+
+- Currently working with local storage. If got more time would use Redux or any Store management tool with Hydrate functionality. 
+- UI/UX improvements with better designs.
+- Can add attachment support and API support
+- Advanced Filters in the Table Search for users.
 
 
 
